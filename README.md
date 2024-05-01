@@ -1,3 +1,3 @@
 # Learn_C_code_Daily
 
-It helps to understand codeing 
+It helps to understand coding 
