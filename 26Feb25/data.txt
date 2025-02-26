@@ -1,0 +1,2 @@
+Hello, File I/O in C!
+This is second line.
